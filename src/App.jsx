@@ -19,7 +19,7 @@ function App() {
     <ImAirplane />
  <a href="https://www.esquel.tur.ar/"> tambien puedes ver esta pagina de turismo</a> </div1>
  <div2 className="bg-cyan-300"> 
-<button className='border-3 border-yellow-300' type="reset"><h1> TELEFONOS </h1></button>
+<button className='border-3 border-yellow-400' type="reset"><h1> TELEFONOS </h1></button>
 <button className='border-3 border-yellow-300' type="reset"><h1> REDES SOCIALES </h1></button>
 <button className='border-3 border-yellow-300' type="reset"><h1> DIRECCION </h1></button>
 
