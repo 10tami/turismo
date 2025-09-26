@@ -381,6 +381,15 @@ El viaje de ida y vuelta dura unas dos horas y media, y tendrá acceso a un vag�
 
 
 
+    <TextType 
+className="text-black bg-black text-9xl"
+  text={["FELIZ DIA DEL TURISMO ", " desde el Sábado 20 de septiembre hasta el Martes 7 de octubre ", " ESQUEL - CHUBUT - PATAGONIA - ARGENTINA!"]}
+  typingSpeed={75}
+  pauseDuration={1500}
+  showCursor={true}
+  cursorCharacter="|"
+
+/>
 
 
 
