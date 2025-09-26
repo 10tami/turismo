@@ -1,9 +1,6 @@
-import Holis from './holis';
-import Holis2 from './Holis2';
-import Holis3 from './Holis3';
-import Loader from './Button.jsx';
-import TextType from './TextType.jsx';
-import Ballpit from './Ballpit.jsx';
+import Loader from './componentes/Button.jsx';
+import TextType from './componentes/TextType.jsx';
+import Ballpit from './componentes/Ballpit.jsx';
 
 
 
@@ -23,10 +20,8 @@ className="text-black bg-black text-9xl"
   cursorCharacter="|"
 
 />
-<Holis></Holis>
 <Loader></Loader>
-<Holis3></Holis3>
-<Holis2></Holis2>
+
   
 
 
