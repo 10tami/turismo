@@ -1,7 +1,7 @@
 import Loader from './componentes/Button.jsx';
 import TextType from './componentes/TextType.jsx';
 import Ballpit from './componentes/Ballpit.jsx';
-
+import Button from './componentes/Holis3.jsx';
 
 
 
@@ -13,7 +13,7 @@ function App() {
   <div>
     <TextType 
 className="text-black bg-black text-9xl"
-  text={["BIENVENIDOS A ESTA HERMOSA CIUDAD", " ESQUEL- CHUBUT", "PATAGONIA ARGENTINA!"]}
+  text={["FELIZ DIA DEL TURISMO!!!", " desde el Sábado 20 de septiembre hasta el Martes 7 de octubre ", " ESQUEL - CHUBUT - PATAGONIA - ARGENTINA!"]}
   typingSpeed={75}
   pauseDuration={1500}
   showCursor={true}
@@ -23,7 +23,7 @@ className="text-black bg-black text-9xl"
 <Loader></Loader>
 
   
-
+<Button></Button>
 
 
 
@@ -381,18 +381,18 @@ El viaje de ida y vuelta dura unas dos horas y media, y tendrá acceso a un vag�
 
 
 
+
+
+
     <TextType 
 className="text-black bg-black text-9xl"
-  text={["FELIZ DIA DEL TURISMO ", " desde el Sábado 20 de septiembre hasta el Martes 7 de octubre ", " ESQUEL - CHUBUT - PATAGONIA - ARGENTINA!"]}
+  text={["BIENVENIDOS A ESTA HERMOSA CIUDAD", " ESQUEL- CHUBUT", "PATAGONIA ARGENTINA!"]}
   typingSpeed={75}
   pauseDuration={1500}
   showCursor={true}
   cursorCharacter="|"
 
 />
-
-
-
 
 
 
