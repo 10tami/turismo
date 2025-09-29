@@ -11,7 +11,7 @@ Instagram: @turismoesquelok
 Facebook: Turismo Esquel
 </span>
         <span>
-          REDES DE COMUNICACION
+          CONSULTAS O DUDAS
         </span>
       </div>
     </StyledWrapper>
