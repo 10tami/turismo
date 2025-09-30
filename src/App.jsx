@@ -9,7 +9,7 @@ function App() {
 
   return (
     <> 
-    <div className='bg-emerald-800'>
+    <div className='bg-no-repeat bg-cover bg-bottom bg-fixed bg-[url(https://inym.org.ar/imagenes/archivos/noticias/80133_imagen.jpg)]'> 
   <div>
    
       <TextType 
