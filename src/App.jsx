@@ -23,12 +23,16 @@ className="text-black bg-black text-9xl"
 />
  
 
+
+
+
 <Loader></Loader>
 
-  
+
 <Button></Button>
 
 <Card></Card>
+
 
 
 <Ballpit className="h-100 ml-120 mb-10"
@@ -50,7 +54,7 @@ className="text-black bg-black text-9xl"
         placeItems: "center",
         backgroundColor: "#111"
       }}
-    >
+    > 
       <p className='p-4 text-xs text-green-500 font-bold' >  CASA LOS VASCOS
 El último almacén de ramos generales, continua firme desde 1926.
 en manos de los hermanos Valbuena con la atención personalizada como marca registrada.
