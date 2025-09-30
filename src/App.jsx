@@ -14,7 +14,7 @@ function App() {
    
       <TextType 
 className="text-black bg-black text-9xl"
-  text={["BIENVENIDOS A ESTA HERMOSA CIUDAD", " ESQUEL- CHUBUT", "PATAGONIA ARGENTINA!"]}
+  text={["BIENVENIDOS A ESTA HERMOSA CIUDAD", " FELIZ DIA DEL TURISMO", " ESQUEL- CHUBUT!"]}
   typingSpeed={75}
   pauseDuration={1500}
   showCursor={true}

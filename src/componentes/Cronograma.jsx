@@ -6,24 +6,24 @@ const Card = () => {
     <StyledWrapper>
       <div className="h-40">
         <div className="palette">
-          <div className="color"><span>Sábado 4 de octubre, Trevelin 21 hs Calle Roca 528, Valor de las entradas: $25 mil anticipadas; 30 mil en puerta. 
+          <div className="color">Trevelin  <span className='ml-4' >Sábado 4 de octubre, Trevelin 21 hs Calle Roca 528, Valor de las entradas: $25 mil anticipadas; 30 mil en puerta. 
             Reservas al +54 9 2945 547842,
             </span></div>
 
-          <div className="color"><span>
-            Sábado 4 de octubre, Parque Nacional Los Alerces 10hs charlas y musica folclorica Valor: $ 25 mil con inscripción, info al +54 9 2945 547842, 
+          <div className="color"> Parque Nacional Los Alerces <span  className='ml-4'>
+            Sábado 4 de octubre, PNLA 10hs charlas y musica folclorica Valor: $ 25 mil con inscripción, info al +54 9 2945 547842, 
             10hs Excursión Sendero El Portezuelo, desde Puerto Limonao registro previo 
             12hs Caminata sendero Pinturas Rupestres
 
             </span></div>
-          <div className="color"><span> Domingo 5 de octubre, Esquel 19 hs Centro Cultural Melipal
+          <div className="color"> Esquel <span  className='ml-4'> Domingo 5 de octubre, Esquel 19 hs Centro Cultural Melipal
             Función del Ciclo de Cine y Filosofía “Lo que una imagen puede”. 
             Se proyectará la película “El país de las maravillas”, de Alice Rohrwacher
             </span></div>
-          <div className="color"><span> Lunes 6 de octubre, Esquel 19 hs Hotel Sol del Sur
+          <div className="color"> Esquel <span  className='ml-4'> Lunes 6 de octubre, Esquel 19 hs Hotel Sol del Sur
             Charla informativa: Herramientas de gestión para emprendimientos turísticos. 
             Invita: Tecnicatura Superior en Turismo, ISET 815 </span></div>
-          <div className="color"><span>Martes 7 de octubre, Esquel 19 hs Edificio de Aulas de la Sede Esquel de la UNPSJB</span></div>
+          <div className="color"> Esquel <span  className='ml-4'>Martes 7 de octubre, Esquel 19 hs Edificio de Aulas de la Sede Esquel de la UNPSJB</span></div>
         </div>
         <div className='h-150'>
           <span className='bg-blue-200'>ACTIVIDADES DEL DIA DEL TURISMO!!!</span>
