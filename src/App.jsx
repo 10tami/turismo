@@ -31,7 +31,7 @@ className="text-black bg-black text-9xl"
 <Card></Card>
 
 
-<Ballpit className="h-100 ml-120"
+<Ballpit className="h-100 ml-120 mb-10"
   
   firstContent={
     <img
@@ -63,7 +63,7 @@ en manos de los hermanos Valbuena con la atención personalizada como marca regi
 />
 
 
-<Ballpit className="h-100 ml-120"
+<Ballpit className="h-100 ml-120 mb-10"
   
   firstContent={
     <img
@@ -95,7 +95,7 @@ Se fusiona con las aguas espejadas para transformarse en una postal única.</p>
 />
 
 
-<Ballpit className="h-100 ml-120"
+<Ballpit className="h-100 ml-120 mb-10"
   
   firstContent={
     <img
@@ -131,7 +131,7 @@ Ademas ha recibido una calificación promedio de 4.5 sobre 5 de 302 reseñas
 
 
 
-<Ballpit className="h-100 ml-120"
+<Ballpit className="h-100 ml-120 mb-10"
   
   firstContent={
     <img
@@ -167,7 +167,7 @@ La entrada suele ser gratuita, pero muchos de los eventos tratan de recaudar din
 
 
 
-<Ballpit className="h-100 ml-120"
+<Ballpit className="h-100 ml-120 mb-10"
   
   firstContent={
     <img
@@ -204,7 +204,7 @@ Ofrecen una variedad de platos frescos y de alta calidad, en un ambiente acogedo
 
 
 
-<Ballpit className="h-100 ml-120"
+<Ballpit className="h-100 ml-120 mb-10"
   
   firstContent={
     <img
@@ -240,7 +240,7 @@ Hay socorristas, baños y plazas de aparcamiento en la laguna.
 
 
 
-<Ballpit className="h-100 ml-120"
+<Ballpit className="h-100 ml-120 mb-10"
   
   firstContent={
     <img
@@ -276,7 +276,7 @@ Te llevarán el equipo, los bocadillos y el almuerzo, y te darán una charla de 
 
 
 
-<Ballpit className="h-100 ml-120"
+<Ballpit className="h-100 ml-120 mb-10"
   
   firstContent={
     <img
@@ -313,7 +313,7 @@ Puede visitar «El Abuelo», un alerce que tiene al menos 2.600 años.
 
 
 
-<Ballpit className="h-100 ml-120"
+<Ballpit className="h-100 ml-120 mb-10"
   
   firstContent={
     <img
@@ -349,7 +349,7 @@ Hay alquileres e instructores de esquí, por lo que es un lugar barato para que 
 
 
 
-<Ballpit className="h-100 ml-120"
+<Ballpit className="h-100 ml-120 mb-10"
   
   firstContent={
     <img
