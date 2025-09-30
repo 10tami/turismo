@@ -111,7 +111,7 @@ function Ballpit({
         rounded-[15px]
         border-2
         border-white
-        w-[300px]
+        w-[600px]
         max-w-full
         relative
         overflow-hidden
