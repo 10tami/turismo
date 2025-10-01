@@ -110,7 +110,7 @@ function Ballpit({
         text-white
         rounded-[15px]
         border-2
-        border-white
+        border-green-800
         w-[600px]
         max-w-full
         relative

@@ -35,7 +35,7 @@ const Loader = () => {
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" style={{rotationDuration: '0ms', rotationDirection: 'normal'}} viewBox="0 0 64 64" height={64} width={64} className="inline-block">
           <path strokeLinejoin="" strokeLinecap="" strokeWidth={8} stroke="url(#d)" d="M 4,4 h 4.6230469 v 25.919922 c -0.00276,11.916203 9.8364941,21.550422 21.7500001,21.296875 11.616666,-0.240651 21.014356,-9.63894 21.253906,-21.25586 a 2.0002,2.0002 0 0 0 0,-0.04102 V 4 H 56.25 v 25.919922 c 0,14.33873 -11.581192,25.919922 -25.919922,25.919922 a 2.0002,2.0002 0 0 0 -0.0293,0 C 15.812309,56.052941 3.998433,44.409961 4,29.919922 Z" className="dash" id="e" pathLength={360} />
         </svg>
-         <p className="bg-amber-300"><span>    “FELIZ DIA DEL TURISMO!!!”, “DESDE EL SABADO 20 DE SEPTIEMBRE HASTA EL MARTES 07 DE OCTUBRE, ESQUEL – CHUBUT!!!
+         <p className="bg-blue-600"><span>    “FELIZ DIA DEL TURISMO!!!”, “DESDE EL SABADO 20 DE SEPTIEMBRE HASTA EL MARTES 07 DE OCTUBRE, ESQUEL – CHUBUT!!!
           SE ESTARA REALIZANDO DIVERSAS ACTIVIDADES RECREATIVAS, TE ESPERAMOS!
 
            SI TE INTERESA PARTICIPAR DEL EVENTO PODES COMUNICARTE POR WHATSAPP AL +54 9 2945 525009</span></p>
