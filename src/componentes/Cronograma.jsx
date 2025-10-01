@@ -26,7 +26,9 @@ const Card = () => {
           <div className="color"> Esquel <span  className='ml-4'>Martes 7 de octubre, Esquel 19 hs Edificio de Aulas de la Sede Esquel de la UNPSJB</span></div>
         </div>
         <div className='h-150'>
-          <span className='bg-blue-200'>ACTIVIDADES DEL DIA DEL TURISMO!!!</span>
+          <span className='bg-blue-400'> 
+
+            </span> 
           <svg xmlns="http://www.w3.org/2000/svg" width={18} height={18} viewBox="0 0 18 18">
             <path d="M4 7.5c-.83 0-1.5.67-1.5 1.5s.67 1.5 1.5 1.5S5.5 9.83 5.5 9 4.83 7.5 4 7.5zm10 0c-.83 0-1.5.67-1.5 1.5s.67 1.5 1.5 1.5 1.5-.67 1.5-1.5-.67-1.5-1.5-1.5zm-5 0c-.83 0-1.5.67-1.5 1.5s.67 1.5 1.5 1.5 1.5-.67 1.5-1.5S9.83 7.5 9 7.5z" />
           </svg>

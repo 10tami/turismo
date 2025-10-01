@@ -91,7 +91,7 @@ let imagenesMap = listaImagenes.map((item)=>
 <Fondodecolores></Fondodecolores>
 
       <TextType 
-className="text-black bg-black text-9xl ml-25"
+className="text-black bg-black text-9xl ml-34"
   text={["BIENVENIDOS A ESTA HERMOSA CIUDAD", " FELIZ DIA DEL TURISMO", " ESQUEL- CHUBUT!"]}
   typingSpeed={75}
   pauseDuration={1500}
@@ -104,11 +104,27 @@ className="text-black bg-black text-9xl ml-25"
 <Button></Button>
 <Card></Card>
 
+      <TextType 
+className="text-black bg-black text-1xl ml-1"
+  text={["FELIZ DIA DEL TURISMO!!! DESDE EL SABADO 20 DE SEPTIEMBRE HASTA EL MARTES 07 DE OCTUBRE", " SE ESTARA REALIZANDO DIVERSAS ACTIVIDADES RECREATIVAS TE ESPERAMOS!", " SI TE INTERESA PARTICIPAR DEL EVENTO PODES COMUNICARTE POR WHATSAPP AL +54 9 2945 525009", " ESQUEL – CHUBUT!!!"]}
+  typingSpeed={75}
+  pauseDuration={1500}
+  showCursor={true}
+  cursorCharacter="|"
+
+/>
+
+
+
+<div className='flex flex-wrap justify-center gap-5'>
+
+
 {imagenesMap}
+</div>
 
 
     <TextType 
-className="text-black bg-black text-9xl"
+className="text-green-950 bg-green-950 text-2xl ml-1 "
   text={["FELIZ DIA DEL TURISMO!!!", " ESQUEL- CHUBUT", "PATAGONIA ARGENTINA!"]}
   typingSpeed={75}
   pauseDuration={1500}
@@ -117,7 +133,6 @@ className="text-black bg-black text-9xl"
 
 
 />
-
 
 
 </div>
