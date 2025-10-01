@@ -3,6 +3,7 @@ import TextType from './componentes/TextType.jsx';
 import Ballpit from './componentes/Ballpit.jsx';
 import Button from './componentes/Holis3.jsx';
 import Card from './componentes/Cronograma.jsx';
+import Fondodecolores from './componentes/Fondodecolores.js';
 
 
 function App() {
@@ -87,8 +88,10 @@ let imagenesMap = listaImagenes.map((item)=>
     <div className='bg-no-repeat bg-cover bg-bottom bg-fixed bg-[url(https://inym.org.ar/imagenes/archivos/noticias/80133_imagen.jpg)]'> 
   <div>
    
+<Fondodecolores></Fondodecolores>
+
       <TextType 
-className="text-black bg-black text-9xl"
+className="text-black bg-black text-9xl ml-25"
   text={["BIENVENIDOS A ESTA HERMOSA CIUDAD", " FELIZ DIA DEL TURISMO", " ESQUEL- CHUBUT!"]}
   typingSpeed={75}
   pauseDuration={1500}
@@ -96,34 +99,12 @@ className="text-black bg-black text-9xl"
   cursorCharacter="|"
 
 />
- 
+
 <Loader></Loader>
 <Button></Button>
 <Card></Card>
 
-
 {imagenesMap}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     <TextType 
@@ -134,9 +115,8 @@ className="text-black bg-black text-9xl"
   showCursor={true}
   cursorCharacter="|"
 
+
 />
-
-
 
 
 
