@@ -81,7 +81,7 @@ const StyledWrapper = styled.div`
   }
 
   .color:nth-child(5) {
-    background: #97ED15;
+    background:#8540B3;
   }
 
   .color:hover {
