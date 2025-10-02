@@ -88,10 +88,12 @@ let imagenesMap = listaImagenes.map((item)=>
     <div className='bg-no-repeat bg-cover bg-bottom bg-fixed bg-[url(https://inym.org.ar/imagenes/archivos/noticias/80133_imagen.jpg)]'> 
   <div>
    
-<Fondodecolores></Fondodecolores>
+
+<div className='flex justify-center'>
+
 
       <TextType 
-className="text-black bg-black text-9xl ml-34"
+className="text-emerald-400 bg-emerald-400 text-2xl sm:text-9xl "
   text={["BIENVENIDOS A ESTA HERMOSA CIUDAD", " FELIZ DIA DEL TURISMO", " ESQUEL- CHUBUT!"]}
   typingSpeed={75}
   pauseDuration={1500}
@@ -99,13 +101,14 @@ className="text-black bg-black text-9xl ml-34"
   cursorCharacter="|"
 
 />
+</div>
 
 <Loader></Loader>
 <Button></Button>
 <Card></Card>
 
       <TextType 
-className="text-black bg-black text-1xl ml-1"
+className="text-blue-500 bg-amber-500 text-1xl ml-1"
   text={["FELIZ DIA DEL TURISMO!!! DESDE EL SABADO 20 DE SEPTIEMBRE HASTA EL MARTES 07 DE OCTUBRE", " SE ESTARA REALIZANDO DIVERSAS ACTIVIDADES RECREATIVAS TE ESPERAMOS!", " SI TE INTERESA PARTICIPAR DEL EVENTO PODES COMUNICARTE POR WHATSAPP AL +54 9 2945 525009", " ESQUEL – CHUBUT!!!"]}
   typingSpeed={75}
   pauseDuration={1500}
@@ -124,7 +127,7 @@ className="text-black bg-black text-1xl ml-1"
 
 
     <TextType 
-className="text-green-950 bg-green-950 text-2xl ml-1 "
+className="text-green-900 bg-green-950 text-2xl ml-1 "
   text={["FELIZ DIA DEL TURISMO!!!", " ESQUEL- CHUBUT", "PATAGONIA ARGENTINA!"]}
   typingSpeed={75}
   pauseDuration={1500}
