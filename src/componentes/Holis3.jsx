@@ -21,11 +21,11 @@ Facebook: Turismo Esquel
 const StyledWrapper = styled.div`
   .uiverse {
     position: relative;
-    background: #ffffff;
-    color: #000;
+    background: #2BFF92;
+    color: #9B2AB5;
     padding: 15px;
     margin: 5px;
-    border-radius: 10px;
+    border-radius: 80px;
     width: 150px;
     height: 50px;
     font-size: 17px;
@@ -42,8 +42,8 @@ const StyledWrapper = styled.div`
     position: absolute;
     top: 0;
     font-size: 14px;
-    background: #ffffff;
-    color: #ffffff;
+    background:#090979;
+    color: #9B2AB5;
     padding: 5px 8px;
     border-radius: 5px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
@@ -57,7 +57,7 @@ const StyledWrapper = styled.div`
     content: "";
     height: 8px;
     width: 8px;
-    background: #ffffff;
+    background: #090979;
     bottom: -3px;
     left: 50%;
     transform: translate(-50%) rotate(45deg);
@@ -80,7 +80,7 @@ const StyledWrapper = styled.div`
   .uiverse:hover .tooltip,
   .uiverse:hover .tooltip::before {
     background: linear-gradient(320deg, rgb(3, 77, 146), rgb(0, 60, 255));
-    color: #ffffff;
+    color: #2BFF92;
   }`;
 
 export default Button;

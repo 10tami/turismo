@@ -23,13 +23,13 @@ const Card = () => {
           <div className="color"> Esquel <span  className='ml-4'> Lunes 6 de octubre, Esquel 19 hs Hotel Sol del Sur
             Charla informativa: Herramientas de gestión para emprendimientos turísticos. 
             Invita: Tecnicatura Superior en Turismo, ISET 815 </span></div>
-          <div className="color"> Esquel <span  className='ml-4'>Martes 7 de octubre, Esquel 19 hs Edificio de Aulas de la Sede Esquel de la UNPSJB</span></div>
+          <div className="color "> Esquel <span  className='ml-4'>Martes 7 de octubre, Esquel 19 hs Edificio de Aulas de la Sede Esquel de la UNPSJB</span></div>
         </div>
         <div className='h-150'>
           <span className='bg-blue-400'> 
 
             </span> 
-          <svg xmlns="http://www.w3.org/2000/svg" width={18} height={18} viewBox="0 0 18 18">
+          <svg xmlns="http://www.w3.org/2000/svg" width={8} height={8} viewBox="0 0 18 18">
             <path d="M4 7.5c-.83 0-1.5.67-1.5 1.5s.67 1.5 1.5 1.5S5.5 9.83 5.5 9 4.83 7.5 4 7.5zm10 0c-.83 0-1.5.67-1.5 1.5s.67 1.5 1.5 1.5 1.5-.67 1.5-1.5-.67-1.5-1.5-1.5zm-5 0c-.83 0-1.5.67-1.5 1.5s.67 1.5 1.5 1.5 1.5-.67 1.5-1.5S9.83 7.5 9 7.5z" />
           </svg>
         </div>
@@ -65,23 +65,23 @@ const StyledWrapper = styled.div`
   }
 
   .color:nth-child(1) {
-    background: #264653;
+    background: #D53FFB;
   }
 
   .color:nth-child(2) {
-    background: #2a9d8f;
+    background: #0DDBB2;
   }
 
   .color:nth-child(3) {
-    background: #e9c46a;
+    background: #1AB1ED;
   }
 
   .color:nth-child(4) {
-    background: #f4a261;
+    background: #1E964C;
   }
 
   .color:nth-child(5) {
-    background: #e76f51;
+    background: #97ED15;
   }
 
   .color:hover {

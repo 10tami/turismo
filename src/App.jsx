@@ -104,10 +104,10 @@ className="text-emerald-400 bg-emerald-400 text-2xl sm:text-9xl "
 </div>
 
 <Loader></Loader>
-<div className='flex justify-center flex-wrap' > <Card></Card>   </div>
+<div className='flex justify-center flex-wrap ' > <Card></Card>   </div>
 <Button></Button>
       <TextType 
-className="text-blue-500 bg-amber-500 text-1xl ml-1"
+className="text-blue-600 bg-black text-3xl ml-1"
   text={["FELIZ DIA DEL TURISMO!!! DESDE EL SABADO 20 DE SEPTIEMBRE HASTA EL MARTES 07 DE OCTUBRE", " SE ESTARA REALIZANDO DIVERSAS ACTIVIDADES RECREATIVAS TE ESPERAMOS!", " SI TE INTERESA PARTICIPAR DEL EVENTO PODES COMUNICARTE POR WHATSAPP AL +54 9 2945 525009", " ESQUEL – CHUBUT!!!"]}
   typingSpeed={75}
   pauseDuration={1500}
