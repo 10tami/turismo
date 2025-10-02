@@ -21,7 +21,7 @@ Facebook: Turismo Esquel
 const StyledWrapper = styled.div`
   .uiverse {
     position: relative;
-    background: #EA87F5;
+    background: #12FBFF;
     color: #9B2AB5;
     padding: 15px;
     margin: 5px;

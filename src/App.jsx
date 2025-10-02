@@ -126,7 +126,7 @@ className="text-blue-600 bg-black text-3xl ml-1"
 
 
     <TextType 
-className="text-green-900 bg-green-950 text-2xl ml-1 "
+className="text-green-500 bg-green-950 text-4xl ml-1 "
   text={["FELIZ DIA DEL TURISMO!!!", " ESQUEL- CHUBUT", "PATAGONIA ARGENTINA!"]}
   typingSpeed={75}
   pauseDuration={1500}
