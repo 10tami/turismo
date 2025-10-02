@@ -4,7 +4,7 @@ import styled from 'styled-components';
 const Button = () => {
   return (
     <StyledWrapper>
-      <div className="uiverse h-100">
+      <div className="uiverse h-100 mb-8">
         <span className="tooltip">2945 455652
 Whatsapp: +54 9 2945 529616
 Instagram: @turismoesquelok

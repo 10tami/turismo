@@ -4,8 +4,8 @@ import styled from 'styled-components';
 const Card = () => {
   return (
     <StyledWrapper>
-      <div className="h-40 ml-2 mb-10 w-full flex flex-wrap ">
-        <div className="palette mb-8">
+      <div className="h-40 ml-2 mb-10 w-full sm:flex-col-reverse ">
+        <div className="palette mb-4 w-full sm:flex-col-reverse">
           <div className="color">Trevelin  <span className='ml-4' >Sábado 4 de octubre, Trevelin 21 hs Calle Roca 528, Valor de las entradas: $25 mil anticipadas; 30 mil en puerta. 
             Reservas al +54 9 2945 547842,
             </span></div>
