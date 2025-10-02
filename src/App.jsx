@@ -105,7 +105,9 @@ className="text-emerald-400 bg-emerald-400 text-2xl sm:text-9xl "
 
 <Loader></Loader>
 <Button></Button>
-<Card></Card>
+
+<div className='flex justify-center'> <Card></Card>   </div>
+
 
       <TextType 
 className="text-blue-500 bg-amber-500 text-1xl ml-1"
