@@ -94,7 +94,7 @@ let imagenesMap = listaImagenes.map((item)=>
 
 
       <TextType 
-className="text-emerald-200 bg-emerald-700 text-1xl sm:text-4xl "
+className="text-emerald-200 bg-emerald-700 text-1xl sm:text-4xl mt-10 sm:mt-0 "
   text={["BIENVENIDOS A ESTA HERMOSA CIUDAD FELIZ DIA DEL TURISMO!!!", " DESDE EL SABADO 20 DE SEPTIEMBRE HASTA EL MARTES 07 DE OCTUBRE", " SE ESTARA REALIZANDO DIVERSAS ACTIVIDADES RECREATIVAS TE ESPERAMOS  ESQUEL- CHUBUT!!!"]}
   typingSpeed={75}
   pauseDuration={1500}
@@ -103,12 +103,13 @@ className="text-emerald-200 bg-emerald-700 text-1xl sm:text-4xl "
 
 />
 
-<Loader></Loader>
 
 </div>
-<Button></Button>
 
-<div className='mt-80 sm:mt-0' > <Card></Card>   </div>
+
+<div className='mt-11 '> <Button></Button> <Loader></Loader>  </div>
+
+<div className='mt-90 sm:mt-0' > <Card></Card>   </div>
 
 
 
