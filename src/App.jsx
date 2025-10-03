@@ -6,6 +6,7 @@ import Card from './componentes/Cronograma.jsx';
 import Fondodecolores from './componentes/Fondodecolores.js';
 
 
+
 function App() {
 
   let listaImagenes=[{
@@ -93,7 +94,7 @@ let imagenesMap = listaImagenes.map((item)=>
 
 
       <TextType 
-className="text-emerald-200 bg-emerald-700 text-2xl sm:text-8xl "
+className="text-emerald-200 bg-emerald-700 text-1xl sm:text-4xl "
   text={["BIENVENIDOS A ESTA HERMOSA CIUDAD", " FELIZ DIA DEL TURISMO", " ESQUEL- CHUBUT!"]}
   typingSpeed={75}
   pauseDuration={1500}
@@ -105,7 +106,6 @@ className="text-emerald-200 bg-emerald-700 text-2xl sm:text-8xl "
 <Loader></Loader>
 
 </div>
-
 <Button></Button>
       <TextType 
 className="text-blue-600 bg-black text-3xl ml-1"
@@ -116,7 +116,7 @@ className="text-blue-600 bg-black text-3xl ml-1"
   cursorCharacter="|"
 
 />
-<div className='flex justify-center flex-wrap ' > <Card></Card>   </div>
+<div className='mt-80 sm:mt-0' > <Card></Card>   </div>
 
 
 
