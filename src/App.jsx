@@ -108,7 +108,7 @@ className="text-emerald-200 bg-emerald-700 text-1xl sm:text-4xl "
 </div>
 <Button></Button>
 
-<div className='mt-500 sm:mt-0' > <Card></Card>   </div>
+<div className='mt-40 sm:mt-0' > <Card></Card>   </div>
 
 
 
