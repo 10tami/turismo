@@ -108,9 +108,9 @@ className="text-emerald-200 bg-emerald-700 text-1xl sm:text-4xl mt-10 sm:mt-0 "
 
 
 <div className='mt-11 '> <Loader></Loader>  </div>
-<Button></Button> 
 
 <div className='mt-90 sm:mt-0' > <Card></Card>   </div>
+<Button></Button> 
 
 
 
